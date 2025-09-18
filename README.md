@@ -1,6 +1,9 @@
 # Project Overview:
 <img width="1156" height="727" alt="image" src="https://github.com/user-attachments/assets/7c5043d6-a5c7-424e-a54d-a2f94a472ad2" />
 
+# Data Model:
+<img width="1089" height="705" alt="image" src="https://github.com/user-attachments/assets/7c793e2e-3972-4235-9767-464f5687c5d5" />
+
 ## 1. **Purpose**:
 -  The problem to be solved is the need to improve the management processes of the organization in order to achieve the strategic goals of the organization.
 The working hypothesis of the study is that assessing employee satisfaction with the management processes in an organization allows us to identify the most important processes, the implementation of which processes employees are least satisfied with.
